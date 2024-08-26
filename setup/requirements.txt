@@ -1,0 +1,26 @@
+tqdm
+pyyaml
+matplotlib
+open3d==0.13.0
+diffusers==0.29.2
+accelerate
+transformers
+opencv-python
+loguru
+omegaconf
+yacs
+rich
+einops
+kornia
+dl_ext
+onnxruntime
+onnx
+git+https://github.com/facebookresearch/segment-anything.git
+rembg
+trimesh
+lightning
+-e git+https://github.com/CompVis/taming-transformers.git\#egg=taming-transformers
+pyhocon>=0.3.60
+cython
+PyMCubes==0.1.4
+icecream
