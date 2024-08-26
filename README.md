@@ -6,7 +6,7 @@
 
 [![arxiv.org](https://img.shields.io/badge/cs.CV-arXiv%3A0000.0000-B31B1B.svg)](https://arxiv.org/)
 [![cite-bibtex](https://img.shields.io/badge/Cite-BibTeX-1f425f.svg)](#citing)
-[![download meshes](https://img.shields.io/badge/Download-Meshes-b3a017.svg)](https://shields.io/)
+[![download meshes](https://img.shields.io/badge/Download-Meshes-b3a017.svg)](https://clousi.hs-mannheim.de/index.php/s/4qknpPB6PjPWEg9)
 
 ## About - Mesh Generation
 This repository prompts text to 3D models in order to create meshes for the Text3DAugmentation.
