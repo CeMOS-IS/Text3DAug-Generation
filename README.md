@@ -14,6 +14,7 @@ For the augmentation itself, please refer to the following [repository](https://
 
 ## Installation
 The code was tested with CUDA 11.8 and Python 3.8.10. The code was not optimized for multi-GPU setups and various models only support 1 GPU.
+Note that the installation of all packages can take 0.5 hours or more.
 
 **Anaconda**
 
