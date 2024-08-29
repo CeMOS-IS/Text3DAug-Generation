@@ -67,6 +67,7 @@ Meshes are defined in a uniform coordinate system, with the maximum mesh height 
 
 
 **Text &rarr; Image &rarr; Mesh** ([One-2-3-45](https://one-2-3-45.github.io/))
+Note that this model is GPU Memory intensive and might not run on a local PC. For something more lightweight, use the models of the next section.
 
 To generate meshes with this model, take the following steps.
 Generate Text->Image using [SDXL-Turbo](https://huggingface.co/stabilityai/sdxl-turbo) using the following command, adjusting the flags *- -prompts* and *- -out* accordingly. Each generated *.png* image will be stored in *- - out*, with the class name as a subdirectory.
