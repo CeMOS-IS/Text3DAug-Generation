@@ -67,6 +67,7 @@ Meshes are defined in a uniform coordinate system, with the maximum mesh height 
 
 
 **Text &rarr; Image &rarr; Mesh** ([One-2-3-45](https://one-2-3-45.github.io/))
+
 Note that this model is GPU Memory intensive and might not run on a local PC. For something more lightweight, use the models of the next section.
 
 To generate meshes with this model, take the following steps.
